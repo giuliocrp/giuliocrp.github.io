@@ -1,6 +1,6 @@
 ---
 title: "Siemens Digital Industries Sofware Internship"
-excerpt: "Reactive trajectory planning for robotic operations in an unstructured environment simulated by Process Simulate<br/><img src='/images/portfolio-1.png'>"
+excerpt: "Reactive trajectory planning for robotic operations in an unstructured environment simulated by Process Simulate<br/><img src='/images/portfolio/portfolio-1-cover.png'>"
 collection: portfolio
 ---
 
