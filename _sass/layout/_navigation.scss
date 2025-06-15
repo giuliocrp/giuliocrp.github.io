@@ -51,6 +51,7 @@
   }
 }
 
+
 /*
    Post pagination navigation links
    ========================================================================== */
@@ -166,6 +167,7 @@
   border-top: 1px solid var(--global-border-color);
 }
 
+
 /*
    Priority plus navigation
    ========================================================================== */
@@ -174,11 +176,6 @@
   position: relative;
   min-width: 250px;
   background: var(--global-bg-color);
-  display: flex;
-  flex-wrap: nowrap;
-  align-items: center;
-  justify-content: space-between;
-  padding: 0 1rem;
 
   a {
     display: block;
@@ -207,7 +204,6 @@
 
   .visible-links {
     display: table;
-    flex: 0 1 auto;
 
     li {
       display: table-cell;
@@ -229,6 +225,15 @@
       }
     }
 
+    #theme-toggle {
+      a {
+        width: 25px;
+        display: flex;
+        justify-content: center;
+        cursor: pointer;
+      }
+    }
+
     a {
       position: relative;
 
@@ -244,35 +249,13 @@
         transition: $global-transition;
         -webkit-transform: scaleX(0);
             -ms-transform: scaleX(0);
-                transform: scaleX(0); /* hide */
+                transform: scaleX(0); /* hide*/
       }
 
       &:hover:before {
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
-                transform: scaleX(1); /* reveal */
-      }
-    }
-  }
-
-  .theme-toggle-wrapper {
-    flex: 0 0 auto;
-    margin-left: auto;
-    display: flex;
-    align-items: center;
-
-    #theme-toggle {
-      display: inline-block;
-      vertical-align: middle;
-      margin: 0;
-
-      a {
-        width: 25px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        cursor: pointer;
-        padding: 0.5rem;
+                transform: scaleX(1); /* reveal*/
       }
     }
   }
@@ -336,6 +319,7 @@
   }
 }
 
+
 /*
    Navigation list
    ========================================================================== */
@@ -390,6 +374,7 @@
   text-transform: uppercase;
   border-bottom: 1px solid var(--global-border-color);
 }
+
 
 /*
    Table of contents navigation
@@ -448,6 +433,7 @@
     font-weight: normal;
   }
 
+  /* hide sub sub links on small screens*/
   li > ul li {
     display: none;
 
