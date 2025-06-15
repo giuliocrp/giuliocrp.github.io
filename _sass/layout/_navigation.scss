@@ -225,15 +225,6 @@
       }
     }
 
-    #theme-toggle {
-      a {
-        width: 25px;
-        display: flex;
-        justify-content: center;
-        cursor: pointer;
-      }
-    }
-
     a {
       position: relative;
 
@@ -256,6 +247,20 @@
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
+      }
+    }
+  }
+
+    .theme-toggle-wrapper {
+    flex: 0 0 auto;
+    margin-left: auto;
+
+    #theme-toggle {
+      a {
+        width: 25px;
+        display: flex;
+        justify-content: center;
+        cursor: pointer;
       }
     }
   }
