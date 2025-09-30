@@ -24,10 +24,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Giulio Carpi"
-  pronouns         : # example: "she/her"  
   bio              : "MSc in Applied Mathematics"
-  location         : "Toulouse, France"
-  employer         : "Siemens DI SW"
+  location         : "Florence, Italy"
+  employer         : # "Siemens DI SW"
   uri              : # URL
   email            : #"none@example.org" 
 
