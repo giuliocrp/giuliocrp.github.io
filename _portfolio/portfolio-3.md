@@ -10,12 +10,6 @@ collection: portfolio
 During my internship, I focused on improving the terrain mesh generation process for urban energy simulations as part of the **Exa-MA**[^1] project at **Cemosis**[^2]. The goal was to optimize the 3D geometric reconstruction of urban landscapes by generating constrained triangulated meshes aligned with contour lines, reducing unnecessary complexity in flat areas.
 
 
-# Exa-MA WP1 - Terrain Mesh Generation Internship
-
-## Objective
-During my internship, I focused on improving the terrain mesh generation process for urban energy simulations as part of the **Exa-MA**[^1] project at **Cemosis**[^2]. The goal was to optimize the 3D geometric reconstruction of urban landscapes by generating constrained triangulated meshes aligned with contour lines, reducing unnecessary complexity in flat areas.
-
-
 ## Key Components
 
 ### 1. Terrain Mesh Generation
