@@ -20,13 +20,12 @@ Tree data was sourced from OpenStreetMap using the Overpass API and cURL to quer
 
 A library of 13 tree models in .stl format was created from SketchUp's 3D Warehouse. Additional 28 genera were categorized to match similar models for broader coverage. Visualizations of a sample of models using MeshLab:
 
-<img width="587" alt="generated-lambda-1" src="/images/portfolio-3/tree-abies.png">
-
-<img width="587" alt="generated-lambda-1" src="/images/portfolio-3/tree-aesculus.png">
-
-<img width="587" alt="generated-lambda-1" src="/images/portfolio-3/tree-catalpa.png">
-
-<img width="587" alt="generated-lambda-1" src="/images/portfolio-3/tree-liquidanbar.png">
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
+  <img src="/images/portfolio-3/tree-abies.png" alt="Tree Abies" style="width: 45%; max-width: 300px;">
+  <img src="/images/portfolio-3/tree-aesculus.png" alt="Tree Aesculus" style="width: 45%; max-width: 300px;">
+  <img src="/images/portfolio-3/tree-catalpa.png" alt="Tree Catalpa" style="width: 45%; max-width: 300px;">
+  <img src="/images/portfolio-3/tree-liquidanbar.png" alt="Tree Liquidanbar" style="width: 45%; max-width: 300px;">
+</div>
 
 ### 3. Dataset
 
