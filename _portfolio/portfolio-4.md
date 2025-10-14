@@ -52,7 +52,15 @@ Ginkgo examples at each LOD:
 </div>
 
 
-### 6. Mercator Projection
+## Results
+
+### Model Integration
+
+Trees integrated into Strasbourg models, e.g., Place de la République.
+
+<img width="587" alt="Strasbourg Mesh with Trees" src="/images/portfolio-4/mesh-strasbourg-enhanced1.png">
+
+<img width="587" alt="Strasbourg Mesh with Trees" src="/images/portfolio-4/mesh-strasbourg-enhanced2.png">
 
 
 ## Impact and Future Work
