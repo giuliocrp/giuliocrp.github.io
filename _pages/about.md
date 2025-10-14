@@ -9,14 +9,27 @@ redirect_from:
 
 ### Hi there, I am Giulio 👋
 
-I'm a MSc student in Applied Mathematics at the University of Strasbourg, France. I am passionate about software engineering, data science and machine learning.
+I graduated in August 2025 with a Master's degree in Applied Mathematics from the University of
+Strasbourg, France. I am passionate about software engineering, data science
+and machine learning.
 
 ### A little bit about me 😄
 
-After an international high-school diploma in Florence, Italy, I moved to France to study mathematics at the University of Strasbourg.
-I wanted to pursued studies abroad to gain global perspectives and foster personal and professional growth. I am currently enrolled in a Master's program in Applied Mathematics, and doing an internship at [Siemens Digital Industries Software](https://www.sw.siemens.com/en-US/), where I am working on reactive trajectory planning for robots operating in unstructured environments.
+After earning an international high-school diploma in Florence, Italy, I moved to
+France to study mathematics at the University of Strasbourg. Studying abroad allowed me to gain global perspectives and foster both personal and professional growth.
 
-Previously I interned at [Cemosis](https://www.cemosis.fr), the Center for Modeling and Simulation in Strasbourg, where I worked on
-optimizing 3D terrain mesh generation for finite element simulations in urban energy modeling.
+My most recent internship was at 
+[Siemens Digital Industries Software](https://www.sw.siemens.com/en-US/),
+where I worked on reactive trajectory planning for robots operating in
+unstructured environments simulated using Siemens' Process Simulate
 
-My expetise is in software engineering, data science and machine learning, as well as in numerical methods for partial differential equations, simulation and optimization as well as scientific and high performance computing. I have a strong background in Python and C++.
+Before that, I interned at [Cemosis](https://www.cemosis.fr), the Center for
+Modeling and Simulation in Strasbourg. There, I focused on optimizing 3D terrain
+mesh generation for finite element simulations in urban energy modeling.
+
+My expertise is in software engineering, data science and machine learning. I also have a strong background in numerical methods for partial differential equations, simulation,
+optimization, and high performance computing. I am proficient in Python and C++.
+
+### Outside of work 🏃‍♂️
+
+When I'm not working on software or data projects, I enjoy staying active through running and swimming. I'm currently training for my first marathon, which has been an exciting and challenging journey!
