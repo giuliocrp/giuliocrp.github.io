@@ -10,7 +10,7 @@ redirect_from:
 ### Hi there, I am Giulio 👋
 
 I graduated in August 2025 with a Master's degree in Applied Mathematics from the University of
-Strasbourg, France. I am passionate about software engineering, data science
+Strasbourg, France. I am passionate about software engineering, data science,
 and machine learning.
 
 ### A little bit about me 😄
@@ -29,6 +29,17 @@ mesh generation for finite element simulations in urban energy modeling.
 
 My expertise is in software engineering, data science and machine learning. I also have a strong background in numerical methods for partial differential equations, simulation,
 optimization, and high performance computing. I am proficient in Python and C++.
+
+
+### Skills
+
+- **Programming Languages**: C/C++, C#, C++/CLI, Python, R, SQL, Bash
+- **Frameworks and Libraries**: TensorFlow, PyTorch, scikit-learn, NumPy, SciPy, Pandas, Matplotlib, Plotly, OpenTurns.
+- **Tools/Software**: Visual Studio 2022, Git/Git Extensions, GitHub, Docker, CI/CD tools.
+- **Numerical Methods**: PDEs, Finite Element Methods, Model Order Reduction.
+- **Methodologies**: Agile, Scrum
+
+
 
 ### Outside of work 🏃‍♂️
 
