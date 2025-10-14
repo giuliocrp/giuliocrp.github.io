@@ -18,7 +18,7 @@ Tree data was sourced from OpenStreetMap using the Overpass API and cURL to quer
 
 ### 2. Tree Library
 
-A library of 13 tree models in .stl format was created from SketchUp's 3D Warehouse. Additional 28 genera were categorized to match similar models for broader coverage. Visualizations of a selection of models using MeshLab:
+A library of 13 tree models in .stl format was created from SketchUp's 3D Warehouse. Additional 28 genera were categorized to match similar models for broader coverage. Visualizations of a sample of models using MeshLab:
 
 <img width="587" alt="generated-lambda-1" src="/images/portfolio-3/tree-abies.png">
 
