@@ -42,6 +42,15 @@ The CGAL Alpha Wrapping algorithm generates watertight meshes by shrink-wrapping
 
 Reference meshes are pre-wrapped at LODs 0-3 (alpha: 0.1, 20, 50, 100; offset: 600). Trees are scaled and translated using CGAL Affine Transformations to match height and position.
 
+Ginkgo examples at each LOD:
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
+  <img src="/images/portfolio-4/gingko-lod0.png" alt="Gingko LOD 0" style="width: 45%; max-width: 300px;">
+  <img src="/images/portfolio-4/gingko-lod1.png" alt="Gingko LOD 1" style="width: 45%; max-width: 300px;">
+  <img src="/images/portfolio-4/gingko-lod2.png" alt="Gingko LOD 2" style="width: 45%; max-width: 300px;">
+  <img src="/images/portfolio-4/gingko-lod3.png" alt="Ginko LOD 3" style="width: 45%; max-width: 300px;">
+</div>
+
 
 ### 6. Mercator Projection
 
