@@ -12,7 +12,7 @@ This internship project, conducted at **Siemens Digital Industries Software** in
 
 ## Key Components
 
-1. Architectural Design
+1. **Architectural Design**
 
 A layered architecture was implemented to ensure modularity and performance:
 
@@ -23,14 +23,14 @@ A layered architecture was implemented to ensure modularity and performance:
 - **Core Engine (Native C++)**: Manages the simulation loop, event-driven point cloud capture, and integration with Kineo SDKs for collision detection.
 
 
-2. Data Acquisition and Processing
+2. **Data Acquisition and Processing**
 
 RGB-D cameras simulate sensor input in Process Simulate. Depth buffers are captured at timed intervals during simulation:
 
 - **Point Cloud Generation**: Converts 2D pixels to 3D points using camera intrinsics (focal length, principal point) and applies camera-to-world transformations.
 
 
-3. Two-Stage Filtering Algorithm
+3. **Two-Stage Filtering Algorithm**
 
 To isolate dynamic obstacles:
 
@@ -38,7 +38,7 @@ To isolate dynamic obstacles:
 
 - **Stage 2: Static Environment Filtering**: Uses voxel grids to subtract known static elements like bins or floors.
 
-4. Collision Detection
+4. **Collision Detection**
 
 Integrates Kineo Collision Detector to check the robot's trajectory against the filtered point cloud, halting simulation upon potential collisions.
 
