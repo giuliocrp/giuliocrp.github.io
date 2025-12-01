@@ -1,46 +1,40 @@
----
-permalink: /
-title: "Giulio Carpi"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+# About Me
 
-### Hi there, I am Giulio 👋
+Hi there, I’m Giulio 👋
 
-I graduated in August 2025 with a Master's degree in Applied Mathematics from the University of
-Strasbourg, France. I am passionate about software engineering, data science,
-and machine learning.
+I recently graduated with an MSc in Applied Mathematics from the University of Strasbourg. I’m passionate about software engineering, data science, and machine learning — turning complex mathematical concepts into robust, real-world solutions.
 
-### A little bit about me 😄
+## A bit about my journey 😄
+Originally from Florence, Italy, I moved to France right after high school to pursue mathematics. Over the past six years, I’ve lived, studied, and worked abroad, becoming fluent in English and French while developing the global perspective and adaptability essential in today’s tech landscape.
 
-After earning an international high-school diploma in Florence, Italy, I moved to
-France to study mathematics at the University of Strasbourg. Studying abroad allowed me to gain global perspectives and foster both personal and professional growth.
+## Professional Experience
 
-My most recent internship was at 
-[Siemens Digital Industries Software](https://www.sw.siemens.com/en-US/),
-where I worked on reactive trajectory planning for robots operating in
-unstructured environments simulated using Siemens' Process Simulate
+**Siemens Digital Industries Software** – Toulouse, France (Intern)  
+Developed a reactive trajectory-planning module for robots in unstructured environments using Siemens Process Simulate. Designed and implemented a three-layer architecture (C# WPF UI → C++/CLI interop → native C++) that processes RGB-D snapshots, converts depth buffers to world-frame point clouds, removes robot self-geometry, and feeds filtered data into real-time collision detection and path-replanning systems.
 
-Before that, I interned at [Cemosis](https://www.cemosis.fr), the Center for
-Modeling and Simulation in Strasbourg. There, I focused on optimizing 3D terrain
-mesh generation for finite element simulations in urban energy modeling.
+**Cemosis** (Center for Modeling and Simulation, Strasbourg – CNRS spinoff) (Intern)  
+Optimized 3D terrain mesh generation pipelines for finite element simulations in urban energy modeling.
 
-My expertise is in software engineering, data science and machine learning. I also have a strong background in numerical methods for partial differential equations, simulation,
-optimization, and high performance computing. I am proficient in Python and C++.
+## Areas of Expertise
+- Software engineering, data science, and machine learning
+- Numerical methods for PDEs, scientific simulation, optimization, and high-performance computing
 
+## Technical Skills
 
-### Skills
+**Programming Languages & Frameworks**  
+C/C++, C#, C++/CLI, Python, R, SQL/NoSQL, Bash
 
-- **Programming Languages**: C/C++, C#, C++/CLI, Python, R, SQL, Bash
-- **Frameworks and Libraries**: TensorFlow, PyTorch, scikit-learn, NumPy, SciPy, Pandas, Matplotlib, Plotly, OpenTurns.
-- **Tools/Software**: Visual Studio 2022, Git/Git Extensions, GitHub, Docker, CI/CD tools.
-- **Numerical Methods**: PDEs, Finite Element Methods, Model Order Reduction.
-- **Methodologies**: Agile, Scrum
+**Key Libraries & Tools**  
+TensorFlow, PyTorch, scikit-learn, NumPy, SciPy, Pandas, Matplotlib, Plotly, CGAL, .NET (WPF), OpenCL, MPI
 
+**Machine Learning & AI**  
+Regression, Classification, Clustering, Neural Networks (ANN, RNN, CNN), Deep Learning, Generative Models, Scientific Machine Learning, Uncertainty Quantification
 
+**Modeling, Simulation & Optimization**  
+Numerical Methods for PDEs, Finite Element/Volume Methods, Mesh Generation, Point Cloud Processing, Optimization Techniques, High-Performance Computing
 
-### Outside of work 🏃‍♂️
+**Tools & Practices**  
+Git/GitHub, Docker, CI/CD, Visual Studio, Agile/Scrum
 
-When I'm not working on software or data projects, I enjoy staying active through running and swimming. I'm currently training for my first marathon, which has been an exciting and challenging journey!
+## Outside of work 🏃‍♂️
+When I’m not coding or diving into data, you’ll find me running, swimming, or exploring new places.
