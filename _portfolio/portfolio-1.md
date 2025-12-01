@@ -57,4 +57,4 @@ Download the project report [here](http://giuliocrp.github.io/files/portfolio-1/
 Download the project presentation [here](http://giuliocrp.github.io/files/portfolio-1/portfolio-1-presentation.pdf).
 
 ## References
-[^1]: [Kineo] (https://plm.sw.siemens.com/en-US/plm-components/kineo)
+[^1]: [Kineo](https://plm.sw.siemens.com/en-US/plm-components/kineo)
