@@ -8,7 +8,7 @@ collection: portfolio
 
 ## Objective
 
-This academic project focuses on developing a reduced-order model for the 1D advection-diffusion PDE with Gaussian initial conditions. By combining convolutional autoencoders for dimensionality reduction and SINDy-like symbolic regression for interpretable decoding, the work aims to create efficient, interpretable surrogates for PDE simulations, alleviating computational burdens in parameter exploration.
+This academic project focuses on developing a reduced-order model for the **1D advection-diffusion** PDE with **Gaussian initial conditions**. By combining convolutional autoencoders for dimensionality reduction and **SINDy-like symbolic regression** for interpretable decoding, the work aims to create efficient, interpretable surrogates for PDE simulations, alleviating computational burdens in parameter exploration.
 
 ## Key Components
 
