@@ -8,7 +8,7 @@ collection: portfolio
 
 ## Objective
 
-This internship project, conducted at **Siemens Digital Industries Software** in Toulouse, France, within the **Kineo**'s **Advanced Robotics Kinematics** (ARK) team, focuses on integrating a reactive trajectory planning system into Tecnomatix **Process Simulate**. The goal is to enable robotic arms to dynamically perceive and avoid obstacles in unstructured environments using real-time RGB-D camera data.
+This internship project, conducted at **Siemens Digital Industries Software** in Toulouse, France, within the **Kineo**[^1]'s **Advanced Robotics Kinematics** (ARK) team, focuses on integrating a reactive trajectory planning system into Tecnomatix **Process Simulate**. The goal is to enable robotic arms to dynamically perceive and avoid obstacles in unstructured environments using real-time RGB-D camera data.
 
 ## Key Components
 
@@ -55,3 +55,6 @@ This framework advances reactive robotics in simulated environments, improving s
 Download the project report [here](http://giuliocrp.github.io/files/portfolio-1/portfolio-1-report.pdf).
 
 Download the project presentation [here](http://giuliocrp.github.io/files/portfolio-1/portfolio-1-presentation.pdf).
+
+## References
+[^1]: [Kineo] (https://plm.sw.siemens.com/en-US/plm-components/kineo)

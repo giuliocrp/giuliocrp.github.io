@@ -57,5 +57,3 @@ Download the project presentation [here](http://giuliocrp.github.io/files/portfo
 [^2]: Cemosis. Center for Modeling and Simulation in Strasbourg. 2024. Available at: [Cemosis](https://www.cemosis.fr)
 [^3]: Mapbox. Mapbox Terrain-RGB v1. Mapbox Documentation. 2024. Available at [Mapbox Terrain-RGB v1](https://docs.mapbox.com/data/tilesets/reference/mapbox-terrain-rgb-v1)
 [^4]: CGAL: The Computational Geometry Algorithms Library. 2024. Available at: [CGAL](https://www.cgal.org)
-
-
