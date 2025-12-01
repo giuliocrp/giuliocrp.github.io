@@ -14,9 +14,7 @@ This academic project focuses on developing a reduced-order model for the 1D adv
 
 ### 1. Mathematical Formulation
 
-The advection-diffusion equation is formulated in both conservative and non-conservative forms, with a Gaussian initial condition $
-u(x, 0) = \frac{1}{\sigma_0 \sqrt{2\pi}} \exp\left(-\frac{(x-\mu_0)^2}{2\sigma_0^2}\right).
-$
+The advection-diffusion equation is formulated in both conservative and non-conservative forms, with a Gaussian initial condition $u(x, 0) = \frac{1}{\sigma_0 \sqrt{2\pi}} \exp\left(-\frac{(x-\mu_0)^2}{2\sigma_0^2}\right)$.
 
 Analytical solutions assume Gaussian preservation, reducing to ODEs for mean $\mu(t)$ and variance $\sigma^2(t)$.
 
