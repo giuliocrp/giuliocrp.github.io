@@ -35,12 +35,12 @@ The primary dataset is a .stl file of Strasbourg's city center, containing ~120,
 
 ### 4. Alpha Wrapping
 
-The CGAL Alpha Wrapping algorithm generates watertight meshes by shrink-wrapping a Delaunay triangulation around input data, balancing tightness and complexity with parameters alpha and offset.
+The **CGAL Alpha Wrapping** algorithm generates watertight meshes by shrink-wrapping a Delaunay triangulation around input data, balancing tightness and complexity with parameters alpha and offset.
 
 
 ### 5. Tree Model Generation
 
-Reference meshes are pre-wrapped at LODs 0-3 (alpha: 0.1, 20, 50, 100; offset: 600). Trees are scaled and translated using CGAL Affine Transformations to match height and position.
+Reference meshes are pre-wrapped at LODs 0-3 (alpha: 0.1, 20, 50, 100; offset: 600). Trees are scaled and translated using **CGAL Affine Transformations** to match height and position.
 
 Ginkgo examples at each LOD:
 
