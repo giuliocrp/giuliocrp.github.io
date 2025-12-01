@@ -14,9 +14,10 @@ This academic project focuses on developing a reduced-order model for the **1D a
 
 ### 1. Mathematical Formulation
 
-The advection-diffusion equation is formulated in both conservative and non-conservative forms, with a Gaussian initial condition $u(x, 0) = \frac{1}{\sigma_0 \sqrt{2\pi}} \exp\left(-\frac{(x-\mu_0)^2}{2\sigma_0^2}\right)$.
+The advection-diffusion equation is formulated in both conservative and non-conservative forms, with a Gaussian initial condition
+$$u(x, 0) = \frac{1}{\sigma_0 \sqrt{2\pi}} \exp\left(-\frac{(x-\mu_0)^2}{2\sigma_0^2}\right)$$.
 
-Analytical solutions assume Gaussian preservation, reducing to ODEs for mean $\mu(t)$ and variance $\sigma^2(t)$.
+Analytical solutions assume Gaussian preservation, reducing to ODEs for mean $$\mu(t)$$ and variance $$\sigma^2(t)$$.
 
 ### 2. Numerical Solver
 
@@ -24,7 +25,7 @@ Spatial: Upwind for advection, centered finite difference for diffusion. Tempora
 
 ### 3. Data Generation
 
-Vary initial parameters $\mu_0 \in [0.3, 0.5, 0.7]$ and $\sigma_0 \in [0.05, 0.1, 0.15]$ on domain [0,1] with $N_x = 96$, $a=1$, $D=0.1$, generating thousands of snapshots.
+Vary initial parameters $$\mu_0 \in [0.3, 0.5, 0.7]$$ and $$\sigma_0 \in [0.05, 0.1, 0.15]$$ on domain [0,1] with $$N_x = 96$$, $$a=1$$, $$D=0.1$$, generating thousands of snapshots.
 
 ### 4. Convolutional Autoencoder
 
