@@ -8,13 +8,13 @@ collection: portfolio
 
 ## Objective
 
-This academic project, part of the HiDALGO2 initiative, focuses on integrating vegetation—specifically trees—into 3D urban models to enhance thermal and energy simulations for improved building energy efficiency and indoor air quality. Conducted at Cemosis within the University of Strasbourg, the work leverages OpenStreetMap data and CGAL algorithms to generate and incorporate tree models into urban terrain meshes, with a primary focus on Strasbourg, France.
+This academic project, part of the **HiDALGO2** initiative, focuses on integrating vegetation—specifically trees—into 3D urban models to enhance thermal and energy simulations for improved building energy efficiency and indoor air quality. Conducted at **Cemosis** (Center for Modeling and Simulation, Strasbourg – CNRS spinoff) within the University of Strasbourg, the work leverages **OpenStreetMap** data and **CGAL** algorithms to generate and incorporate tree models into urban terrain meshes, with a primary focus on Strasbourg, France.
 
 ## Key Components
 
 ### 1. Data Acquisition
 
-Tree data was sourced from OpenStreetMap using the Overpass API and cURL to query nodes tagged as "natural=tree" within a specified bounding box. A configurable config.json file allows users to define parameters such as the bounding box, origin coordinates, altitude, level of detail (LOD), default height range, default genus, input building mesh, and output options.
+Tree data was sourced from **OpenStreetMap** using the **Overpass API** and **cURL** to query nodes tagged as "natural=tree" within a specified bounding box. A configurable config.json file allows users to define parameters such as the bounding box, origin coordinates, altitude, level of detail (LOD), default height range, default genus, input building mesh, and output options.
 
 ### 2. Tree Library
 
