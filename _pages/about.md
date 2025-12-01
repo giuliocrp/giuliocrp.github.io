@@ -25,25 +25,25 @@ Developed a reactive trajectory-planning module for robots in unstructured envir
 Optimized 3D terrain mesh generation pipelines for finite element simulations in urban energy modeling.
 
 ## Areas of Expertise
-- Software engineering, data science, and machine learning
-- Numerical methods for PDEs, scientific simulation, optimization, and high-performance computing
+- Software engineering, data science, and machine learning.
+- Numerical methods for PDEs, scientific simulation, optimization, and high-performance computing.
 
 ## Technical Skills
 
 **Programming Languages & Frameworks**  
-C/C++, C#, C++/CLI, Python, R, SQL/NoSQL, Bash
+C/C++, C#, C++/CLI, Python, R, SQL/NoSQL, Bash.
 
 **Key Libraries & Tools**  
-TensorFlow, PyTorch, scikit-learn, NumPy, SciPy, Pandas, Matplotlib, Plotly, CGAL, .NET (WPF), OpenCL, MPI
+TensorFlow, PyTorch, scikit-learn, NumPy, SciPy, Pandas, Matplotlib, Plotly, CGAL, .NET (WPF), OpenCL, MPI.
 
 **Machine Learning & AI**  
-Regression, Classification, Clustering, Neural Networks (ANN, RNN, CNN), Deep Learning, Generative Models, Scientific Machine Learning, Uncertainty Quantification
+Regression, Classification, Clustering, Neural Networks (ANN, RNN, CNN), Deep Learning, Generative Models, Scientific Machine Learning, Uncertainty Quantification.
 
 **Modeling, Simulation & Optimization**  
-Numerical Methods for PDEs, Finite Element/Volume Methods, Mesh Generation, Point Cloud Processing, Optimization Techniques, High-Performance Computing
+Numerical Methods for PDEs, Finite Element/Volume Methods, Mesh Generation, Point Cloud Processing, Optimization Techniques, High-Performance Computing.
 
 **Tools & Practices**  
-Git/GitHub, Docker, CI/CD, Visual Studio, Agile/Scrum
+Git/GitHub, Docker, CI/CD, Visual Studio, Agile/Scrum.
 
 ## Outside of work 🏃‍♂️
 When I’m not coding or diving into data, you’ll find me running, swimming, or exploring new places.
