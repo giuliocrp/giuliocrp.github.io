@@ -45,5 +45,5 @@ Numerical Methods for PDEs, Finite Element/Volume Methods, Mesh Generation, Poin
 **Tools & Practices**  
 Git/GitHub, Docker, CI/CD, Visual Studio, Agile/Scrum.
 
-## Outside of work 🏃‍♂️
-When I’m not coding or diving into data, you’ll find me running, swimming, or exploring new places.
+## Outside of work
+On my free time I run 🏃🏻‍♂️, swim 🏊‍♂️ and play chess ♟️.
