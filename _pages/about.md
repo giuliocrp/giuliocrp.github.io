@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+Yo, I’m Giulio 👋
 
-Hi there, I’m Giulio 👋
+I graduated back in August 2025 with an MSc in Applied Mathematics from the University of Strasbourg (France). I’m passionate about software engineering and machine learning.
 
-I recently graduated with an MSc in Applied Mathematics from the University of Strasbourg (France). I’m passionate about software engineering, data science, and machine learning.
-
-## A bit about my journey 😄
-I am originally from Italy and I moved to France after high school to pursue mathematics. Over the past six years, I’ve lived, studied, and worked abroad.
+## A bit about my journey
+I am originally from Italy and I moved to France after high school to study maths. Over the past six years, I’ve lived, studied, and worked abroad.
 
 ## Professional Experience
 
@@ -29,8 +27,8 @@ Optimized 3D terrain mesh generation pipelines for finite element simulations in
 Learn more [here](https://giuliocrp.github.io/portfolio/portfolio-3).
 
 ## Areas of Expertise
-- Software engineering, data science, and machine learning.
-- Numerical methods for PDEs, scientific simulation, optimization, and high-performance computing.
+- Software engineering, machine learning, data science.
+- Scientific computing, numerical methods for PDEs (FME, FVM), optimization, HPC.
 
 ## Technical Skills
 
@@ -50,4 +48,4 @@ Numerical Methods for PDEs, Finite Element/Volume Methods, Mesh Generation, Poin
 Git/GitHub, Docker, CI/CD, Visual Studio 2022, Agile/Scrum.
 
 ## Outside of work
-On my free time I run 🏃🏻‍♂️, swim 🏊‍♂️ and play chess.
+On my free time I run, swim, play chess and do many other fun things.
