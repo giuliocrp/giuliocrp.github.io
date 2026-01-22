@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Giulio Carpi"
+title: #"Giulio Carpi"
 author_profile: true
 redirect_from: 
   - /about/
