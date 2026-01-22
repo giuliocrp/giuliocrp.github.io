@@ -67,9 +67,7 @@ Trees integrated into Strasbourg models, e.g., Place de la République.
 
 The framework enhances urban simulations by incorporating vegetation, reducing computational complexity while maintaining realism. Future enhancements include seasonal leaf variations (clustering leaves) and shading simulations using Feel++ for PDE-based ray tracing.
 
-Download the project report [here](http://giuliocrp.github.io/files/portfolio-4/portfolio-4-report.pdf).
-
-Download the project presentation [here](http://giuliocrp.github.io/files/portfolio-4/portfolio-4-presentation.pdf).
+Read the project report [here](http://giuliocrp.github.io/files/portfolio-4/portfolio-4-report.pdf).
 
 ## References
 [^1]: HiDALGO2. HPC AND BIG DATA TECHNOLOGIES FOR GLOBAL CHALLENGE. 2024. Available at: [HiDALGO2](https://www.hidalgo2.eu)

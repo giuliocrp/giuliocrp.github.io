@@ -50,8 +50,6 @@ The developed framework successfully reduces mesh complexity, making large-scale
 
 Read the project report [here](https://feelpp.github.io/ktirio-geom.docs/internship-reports-2024/terrain/index.html).
 
-Download the project presentation [here](http://giuliocrp.github.io/files/portfolio-3/portfolio-3-presentation.pdf).
-
 ## References
 [^1]: Exa-MA. Methods and Algorithms for Exascale. 2024. Available at: [Exa-MA](https://numpex.org/exama-methods-and-algorithms-for-exascale)
 [^2]: Cemosis. Center for Modeling and Simulation in Strasbourg. 2024. Available at: [Cemosis](https://www.cemosis.fr)

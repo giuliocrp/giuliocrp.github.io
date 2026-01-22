@@ -52,9 +52,7 @@ The system was tested in a bin-picking scenario. It successfully detects unexpec
 
 This framework advances reactive robotics in simulated environments, improving safety and adaptability in manufacturing. It reduces reliance on predefined paths and supports human-robot collaboration. Future enhancements include full autonomous path replanning (integrating "plan and act" phases), multi-camera support, hardware-in-the-loop validation, and optimizations for denser point clouds.
 
-Download the project report [here](http://giuliocrp.github.io/files/portfolio-1/portfolio-1-report.pdf).
-
-Download the project presentation [here](http://giuliocrp.github.io/files/portfolio-1/portfolio-1-presentation.pdf).
+Read the project report [here](http://giuliocrp.github.io/files/portfolio-1/portfolio-1-report.pdf).
 
 ## References
 [^1]: [Kineo](https://plm.sw.siemens.com/en-US/plm-components/kineo)

@@ -11,18 +11,22 @@ redirect_from:
 
 Hi there, I’m Giulio 👋
 
-I recently graduated with an MSc in Applied Mathematics from the University of Strasbourg. I’m passionate about software engineering, data science, and machine learning.
+I recently graduated with an MSc in Applied Mathematics from the University of Strasbourg (France). I’m passionate about software engineering, data science, and machine learning.
 
 ## A bit about my journey 😄
-Originally from Florence, Italy, I moved to France right after high school to pursue mathematics. Over the past six years, I’ve lived, studied, and worked abroad, becoming fluent in English and French while developing the global perspective and adaptability essential in today’s tech landscape.
+I am originally from Italy and I moved to France after high school to pursue mathematics. Over the past six years, I’ve lived, studied, and worked abroad.
 
 ## Professional Experience
 
-**Siemens Digital Industries Software** – Toulouse, France (Intern)  
-Developed a reactive trajectory-planning module for robots in unstructured environments using Siemens Process Simulate. Designed and implemented a three-layer architecture (C# WPF UI → C++/CLI interop → native C++) that processes RGB-D snapshots, converts depth buffers to world-frame point clouds, removes robot self-geometry, and feeds filtered data into real-time collision detection and path-replanning systems.
+**Siemens Digital Industries Software** – Toulouse, France (Internship)  
+Developed a reactive trajectory-planning module for industrial robotic arms inside Siemens top PLM software Process Simulate. Designed and implemented a three-layer architecture (C# WPF UI → C++/CLI interop → native C++) that processes RGB-D data from depth cameras, converts it to world-frame point clouds, removes robot self-geometry, and feeds filtered data into real-time collision detection and path-replanning systems.
 
-**Cemosis** (Center for Modeling and Simulation, Strasbourg – CNRS spinoff) (Intern)  
-Optimized 3D terrain mesh generation pipelines for finite element simulations in urban energy modeling.
+Learn more [here](https://giuliocrp.github.io/portfolio/portfolio-1).
+
+**Cemosis** (Center for Modeling and Simulation, Strasbourg – CNRS spinoff) (Internship)  
+Optimized 3D terrain mesh generation pipelines for finite element simulations in urban energy modeling.Developed a C++ pipeline using constrained Delaunay triangulation (CGAL) and Mapbox Terrain-RGB API elevation data.
+
+Learn more [here](https://giuliocrp.github.io/portfolio/portfolio-3).
 
 ## Areas of Expertise
 - Software engineering, data science, and machine learning.
@@ -43,7 +47,7 @@ Regression, Classification, Clustering, Neural Networks (ANN, RNN, CNN), Deep Le
 Numerical Methods for PDEs, Finite Element/Volume Methods, Mesh Generation, Point Cloud Processing, Optimization Techniques, High-Performance Computing.
 
 **Tools & Practices**  
-Git/GitHub, Docker, CI/CD, Visual Studio, Agile/Scrum.
+Git/GitHub, Docker, CI/CD, Visual Studio 2022, Agile/Scrum.
 
 ## Outside of work
-On my free time I run 🏃🏻‍♂️, swim 🏊‍♂️ and play chess ♟️.
+On my free time I run 🏃🏻‍♂️, swim 🏊‍♂️ and play chess.

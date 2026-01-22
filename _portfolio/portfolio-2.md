@@ -50,6 +50,4 @@ SINDy decoder, trained over 10,000 epochs, yields sparse expressions approximati
 
 This hybrid approach enhances PDE modeling by combining neural efficiency with symbolic interpretability, suitable for real-time applications. Prospects include extending to higher dimensions, refining function libraries, embedding PDE knowledge, and enabling real-time control.
 
-Download the project report [here](http://giuliocrp.github.io/files/portfolio-2/portfolio-2-report.pdf).
-
-Download the project presentation [here](http://giuliocrp.github.io/files/portfolio-2/portfolio-2-presentation.pdf).
+Check the project report [here](http://giuliocrp.github.io/files/portfolio-2/portfolio-2-report.pdf).
