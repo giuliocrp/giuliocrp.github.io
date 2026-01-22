@@ -11,7 +11,7 @@ redirect_from:
 
 Hi there, I’m Giulio 👋
 
-I recently graduated with an MSc in Applied Mathematics from the University of Strasbourg. I’m passionate about software engineering, data science, and machine learning — turning complex mathematical concepts into robust, real-world solutions.
+I recently graduated with an MSc in Applied Mathematics from the University of Strasbourg. I’m passionate about software engineering, data science, and machine learning.
 
 ## A bit about my journey 😄
 Originally from Florence, Italy, I moved to France right after high school to pursue mathematics. Over the past six years, I’ve lived, studied, and worked abroad, becoming fluent in English and French while developing the global perspective and adaptability essential in today’s tech landscape.
