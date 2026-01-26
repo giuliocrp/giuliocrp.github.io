@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Giulio Carpi"
   bio              : "MSc Applied Mathematics"
-  location         : "Copenhagen, Denmark"
-  employer         : # "Siemens DI SW"
-  uri              : # URL
+  location         : #"Copenhagen, Denmark"
+  employer         : #"Siemens DI SW"
+  uri              : #URL
   email            : #"none@example.org" 
 
   # Academic websites
