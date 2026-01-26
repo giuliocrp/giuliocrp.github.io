@@ -21,7 +21,7 @@ Developed a reactive trajectory-planning module for industrial robotic arms insi
 
 Learn more [here](https://giuliocrp.github.io/portfolio/portfolio-1).
 
-### Cemosis – CNRS spinoff (Internship)  
+### Cemosis – CNRS spin-off (Internship)  
 Optimized 3D terrain mesh generation pipelines for finite element simulations in urban energy modeling.Developed a C++ pipeline using constrained Delaunay triangulation (CGAL) and Mapbox Terrain-RGB API elevation data.
 
 Learn more [here](https://giuliocrp.github.io/portfolio/portfolio-3).
