@@ -7,22 +7,34 @@ redirect_from:
   - /about.html
 ---
 
-Hey there, I’m Giulio 👋
+Hi, I’m Giulio 👋
 
-I graduated back in August 2025 with an MSc in Applied Mathematics from the University of Strasbourg (France). I’m passionate about software engineering and machine learning.
+I recently completed my Master's degree in Applied Mathematics at the
+University of Strasbourg. I’m passionate about Mathematics, Software
+Engineering and Machine Learning.
 
 ## Background
-I am originally from Italy and I moved to France after high school to study maths. Over the past six years, I’ve lived, studied, and worked abroad.
+I am originally from Florence, Italy and I moved to France after high school
+to study maths. Over the past six years, I’ve lived, studied, and worked abroad.
 
 ## Experience
 
 ### Siemens Digital Industries Software (Internship)  
-Developed a reactive trajectory-planning module for industrial robotic arms inside Siemens top PLM software Process Simulate. Designed and implemented a three-layer architecture (C# WPF UI → C++/CLI interop → native C++) that processes RGB-D data from depth cameras, converts it to world-frame point clouds, removes robot self-geometry, and feeds filtered data into real-time collision detection and path-replanning systems.
+I developed a reactive trajectory-planning module for industrial robotic arms
+inside Siemens top PLM software Process Simulate. Designed and implemented a
+three-layer architecture (C# WPF UI → C++/CLI interop → native C++) that
+processed RGB-D data (point clouds) from depth cameras in real-time, converted
+it to world-frame coordinate, removed robot self-geometry, and fed filtered
+data into collision detection and path-replanning system.
 
 Learn more [here](https://giuliocrp.github.io/portfolio/portfolio-1).
 
 ### Cemosis – CNRS spin-off (Internship)  
-Optimized 3D terrain mesh generation pipelines for finite element simulations in urban energy modeling.Developed a C++ pipeline using constrained Delaunay triangulation (CGAL) and Mapbox Terrain-RGB API elevation data.
+I built a C++ application to optimize 3D terrain mesh generation for
+finite element simulations in urban energy modeling. The pipeline sourced
+elevation data for any given area using Mapbox Terrain-RGB API, processed it
+and used CGAL (Computational Geometry Algorithms Library) to create a Delaunay
+mesh constrained to contour lines.
 
 Learn more [here](https://giuliocrp.github.io/portfolio/portfolio-3).
 
@@ -45,7 +57,7 @@ Regression, Classification, Clustering, Neural Networks (ANN, RNN, CNN), Deep Le
 Numerical Methods for PDEs, Finite Element/Volume Methods, Mesh Generation, Point Cloud Processing, Optimization Techniques, High-Performance Computing.
 
 **Tools & Practices**  
-Git/GitHub, Docker, CI/CD, Visual Studio 2022, Agile/Scrum.
+Git/GitHub, Docker, CI/CD, Visual Studio 2022, Agile/Scrum methodology.
 
 ## Hobbies
-On my free time I run, swim, play chess and do many other fun things.
+On my free time I run, I swim and I play chess.
