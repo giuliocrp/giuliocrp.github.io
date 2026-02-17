@@ -14,7 +14,7 @@ This academic project, part of the **HiDALGO2**[^1] initiative, focuses on integ
 
 ### 1. Data Acquisition
 
-Tree data was sourced from **OpenStreetMap** using the **Overpass API** and **cURL**[^5] to query nodes tagged as "natural=tree" within a specified bounding box. A configurable config.json file allows users to define parameters such as the bounding box, origin coordinates, altitude, level of detail (LOD), default height range, default genus, input building mesh, and output options.
+Tree data was sourced from **OpenStreetMap** using the **Overpass API[^5]** and **cURL**[^6] to query nodes tagged as "natural=tree" within a specified bounding box. A configurable config.json file allows users to define parameters such as the bounding box, origin coordinates, altitude, level of detail (LOD), default height range, default genus, input building mesh, and output options.
 
 ### 2. Tree Library
 
@@ -74,4 +74,5 @@ Read the project report [here](http://giuliocrp.github.io/files/portfolio-4/port
 [^2]: Cemosis. Center for Modeling and Simulation in Strasbourg. 2024. Available at: [Cemosis](https://www.cemosis.fr)
 [^3]: OpenStreetMap. OpenStreetMap Wiki. 2024. Available at: [OpenStreetMap](https://wiki.openstreetmap.org)
 [^4]: CGAL: The Computational Geometry Algorithms Library. 2024. Available at: [CGAL](https://www.cgal.org)
-[^5]: cURL. cURL Documentation. 2024. Available at: [cURL](https://curl.se/docs/)
+[^5]: Overpass API: Read-only API for querying custom subsets of OpenStreetMap data. Available at: [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API)
+[^6]: cURL. cURL Documentation. 2024. Available at: [cURL](https://curl.se/docs/)
