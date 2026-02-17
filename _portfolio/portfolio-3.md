@@ -7,7 +7,9 @@ collection: portfolio
 # Exa-MA WP1 - Terrain Mesh Generation Internship
 
 ## Objective
-During my internship, I focused on improving the terrain mesh generation process for urban energy simulations as part of the **Exa-MA**[^1] project at **Cemosis**[^2]. The goal was to optimize the 3D geometric reconstruction of urban landscapes by generating constrained triangulated meshes aligned with contour lines, reducing unnecessary complexity in flat areas.
+During my internship, I focused on improving the terrain mesh generation process for urban energy simulations as part of the **Exa-MA**[^1] project at **Cemosis**[^2] a **CNRS** spin-off.
+
+The goal was to build a C++ application to optimize 3D terrain mesh generation for finite element simulations in urban energy modeling. The pipeline sourced elevation data for any given geographical area using the **Mapbox Terrain-RGB API**[^3], processed it and used CGAL[^4] to create a Delaunay mesh constrained to contour lines.
 
 ## Key Components
 
@@ -26,7 +28,7 @@ During my internship, I focused on improving the terrain mesh generation process
 
 - **GPS Data-Driven Meshes:**
   - **Grenoble, France (Zoom Level 16):**
-    - A real-world terrain mesh generated using elevation data from the **Mapbox Terrain-RGB API**[^3]. This high-resolution mesh captures the detailed topography of Grenoble.
+    - A real-world terrain mesh generated using elevation data from the **Mapbox Terrain-RGB API**. This high-resolution mesh captures the detailed topography of Grenoble.
 
 <img width="587" alt="generated-gps" src="/images/portfolio-3/generated-grenoble-16.png">
 
@@ -38,7 +40,7 @@ During my internship, I focused on improving the terrain mesh generation process
 
 
 ### 3. Re-Triangulation
-- Using the **CGAL**[^4] library, the contour-constrained meshes were re-triangulated:
+- Using the **CGAL**[^5] library, the contour-constrained meshes were re-triangulated:
 
 <img width="570" alt="constrained-gps" src="/images/portfolio-3/constrained-grenoble-16-1.png">
 
