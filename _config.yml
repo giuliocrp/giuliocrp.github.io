@@ -28,7 +28,7 @@ author:
   location         : #"Copenhagen, Denmark"
   employer         : #"Siemens DI SW"
   uri              : #URL
-  email            : "first dot last plus lapi at icloud" 
+  email            : #"none@example.org" 
 
   # Academic websites
   academia         : # URL

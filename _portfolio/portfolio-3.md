@@ -1,5 +1,5 @@
 ---
-title: "Cemosis Internship"
+title: "CNRS Internship"
 excerpt: "Exa-MA WP1 - Terrain Mesh Generation Internship<br/><img src='/images/portfolio-3/portfolio-3-cover.png'>"
 collection: portfolio
 ---
@@ -9,7 +9,7 @@ collection: portfolio
 ## Objective
 During my internship, I focused on improving the terrain mesh generation process for urban energy simulations as part of the **Exa-MA**[^1] project at **Cemosis**[^2] a **CNRS** spin-off.
 
-The goal was to build a C++ application to optimize 3D terrain mesh generation for finite element simulations in urban energy modeling. The pipeline sourced elevation data for any given geographical area using the **Mapbox Terrain-RGB API**[^3], processed it and used CGAL[^4] to create a Delaunay mesh constrained to contour lines.
+The goal was to build a C++ application to optimize 3D terrain mesh generation for finite element simulations in urban energy modeling. The pipeline sourced elevation data for any given geographical area using the **Mapbox Terrain-RGB API**[^3], processed it and used **CGAL**[^4] to create a Delaunay mesh constrained to contour lines.
 
 ## Key Components
 
@@ -40,7 +40,7 @@ The goal was to build a C++ application to optimize 3D terrain mesh generation f
 
 
 ### 3. Re-Triangulation
-- Using the **CGAL**[^5] library, the contour-constrained meshes were re-triangulated:
+- Using the **CGAL** library, the contour-constrained meshes were re-triangulated:
 
 <img width="570" alt="constrained-gps" src="/images/portfolio-3/constrained-grenoble-16-1.png">
 
@@ -48,7 +48,9 @@ The goal was to build a C++ application to optimize 3D terrain mesh generation f
 
 
 ## Impact and Future Work
-The developed framework successfully reduces mesh complexity, making large-scale urban energy simulations more computationally efficient. Future work could involve merging multiple tiles for broader terrain coverage, optimizing performance for larger datasets, and integrating urban elements like buildings and vegetation to create comprehensive 3D urban models.
+The pipeline developed during this internship successfully reduced mesh complexity making large-scale urban energy simulations more computationally efficient.
+
+Future work could involve merging multiple tiles for broader terrain coverage, optimizing performance for larger datasets, integrating urban elements such as buildings and vegetation to create more comprehensive models.
 
 Read the project report [here](https://feelpp.github.io/ktirio-geom.docs/internship-reports-2024/terrain/index.html).
 
