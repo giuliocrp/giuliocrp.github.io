@@ -1,10 +1,10 @@
 ---
 title: "Academic Project"
-excerpt: "ExaMA WP1 - Vegetation<br/><img src='/images/portfolio-4/portfolio-4-cover.png'>"
+excerpt: "ExaMA WP1 - Vegetation Generation for Urban Energy Modeling <br/><img src='/images/portfolio-4/portfolio-4-cover.png'>"
 collection: portfolio
 ---
 
-# Exa-MA WP1 - Vegetation
+# Exa-MA WP1 - Vegetation Generation for Urban Energy Modeling
 
 ## Objective
 

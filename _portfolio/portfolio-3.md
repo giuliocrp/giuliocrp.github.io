@@ -1,10 +1,10 @@
 ---
 title: "CNRS Internship"
-excerpt: "Exa-MA WP1 - Terrain Mesh Generation Internship<br/><img src='/images/portfolio-3/portfolio-3-cover.png'>"
+excerpt: "Exa-MA WP1 - Terrain Mesh Generation for Urban Energy Modeling <br/><img src='/images/portfolio-3/portfolio-3-cover.png'>"
 collection: portfolio
 ---
 
-# Exa-MA WP1 - Terrain Mesh Generation Internship
+# Exa-MA WP1 - Terrain Mesh Generation for Urban Energy Modeling
 
 ## Objective
 During my internship, I focused on improving the terrain mesh generation process for urban energy simulations as part of the **Exa-MA**[^1] project at **Cemosis**[^2] a **CNRS** spin-off.
